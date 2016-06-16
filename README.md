@@ -21,3 +21,9 @@ Three arguments are supported:
 Arguments should be separated by comma. E.g.:
 
     vm.loadAgent(pathToShutdownAgentJar, "timeout=1000,haltcode=5");
+
+## Download
+
+The artifact is available on [maven-central][1].
+
+[1]: http://search.maven.org/#search%7Cga%7C1%7Ca%3A%22org.everit.jdk.javaagent.shutdown%22
